@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **gen Ai**
 
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on Python, Backend Development, GenAI, AI Agents, and Open-Source Projects.**
-
 - 💬 Ask me about **python,django,postgresql,fastapi,Gen ai ,Ai powered application**
 
 - 📫 How to reach me **pradhan.subhalaxmi9178@gmail.com**
@@ -31,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subha54820&show_icons=true&locale=en" alt="subha54820" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subha54820&" alt="subha54820" /></p>
+
